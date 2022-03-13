@@ -1,8 +1,4 @@
 # Michael-and-his-Zombie-friend-Steven
-Made for Global Game Jam 2022
-
-
-
 Made for Global Game Jam 2022 (The Theme was Duality).
 
 Use WASD or arrow keys to move both characters, R to restart.
